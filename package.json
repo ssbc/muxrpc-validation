@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/pfraze/muxrpc-validation.git"
+    "url": "git+https://github.com/ssbc/muxrpc-validation.git"
   },
   "keywords": [
     "muxrpc",
@@ -17,9 +17,9 @@
   "author": "Paul Frazee <pfrazee@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/pfraze/muxrpc-validation/issues"
+    "url": "https://github.com/ssbc/muxrpc-validation/issues"
   },
-  "homepage": "https://github.com/pfraze/muxrpc-validation#readme",
+  "homepage": "https://github.com/ssbc/muxrpc-validation#readme",
   "dependencies": {
     "pull-stream": "^3.6.11",
     "zerr": "^1.0.4"
